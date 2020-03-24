@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name>user1</name>
+        <cityId>1</cityId>
+        <phone>155xxxxxxxx</phone>
+        <qq>qq_xxx</qq>
+        <dper>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</dper>
+    </user>
+    <user>
+        <name>user2</name>
+        <cityId>1</cityId>
+        <phone>178xxxxxxx</phone>
+        <qq>qq_xxx</qq>
+        <dper>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</dper>
+    </user>
+</users>
