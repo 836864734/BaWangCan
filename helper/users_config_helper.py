@@ -1,10 +1,12 @@
 # 从配置文件中读取所有的user
+from typing import List
+
 from lxml import etree
 
 from bean.user import User
 
 
-def loadConfig():
+def loadConfig() -> List[User]:
     tree = etree.parse("../conf/users.xml")
     root = tree.getroot()
     users = []
